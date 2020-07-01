@@ -1,0 +1,142 @@
+{ "hero": {
+    "header": "<span>Medialab Katowice – </span><span>CITY LAB</span>",
+    "slider" : [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+      "incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud", 
+      "exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure",
+      "dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt",
+      "mollit anim id est laborum."
+    ]
+  },
+  "tile_section": [
+    {
+      "medium_order": 1,
+      "links": [
+        {
+          "href": "https://medialabkatowice.eu/projekty/raport-kultura-w-danych",
+          "title": "Kultura (w) danych",
+          "description": "data-driven research",
+          "symbol": "hexagon",
+          "hover": "kultura-danych"
+        }
+      ]
+    },
+    {
+      "medium_order": 2,
+      "links": [
+        {
+          "href": "https://medialabkatowice.eu/projekty/shared-cities-creative-momentum-pl",
+          "title": "Shared Cities",
+          "description": "transformacja miast w Europie Centralnej",
+          "symbol": "ex",
+          "hover": "shared-city"
+        }
+      ]
+    },
+    {
+      "medium_order": 5,
+      "large_order": 4,
+      "links": [
+        {
+          "href": "https://medialabkatowice.eu/wydarzenia/apetyt-na-radykalna-zmiane-katowice-1865-2015",
+          "title": "Katowice 1865–2015",
+          "description": "wizualizacja danych i storytelling",
+          "symbol": "el",
+          "hover": "katowice"
+        }
+      ]
+    },
+    {
+      "medium_order": 3,
+      "large_order": 5,
+      "links": [
+        {
+          "href": "https://medialabkatowice.eu/projekty/promenada-na-poludnie-dokumentacja-projektu/",
+          "title": "Ulica Kościuszki",
+          "description": "odkrywanie historii miasta",
+          "symbol": "line",
+          "hover": "kosciuszki"
+        }
+      ]
+    },
+    {
+      "medium_order": 4,
+      "large_order": 3,
+      "links": [
+        {
+          "href": "https://blog.medialabkatowice.eu/",
+          "title": "Nasz BLOG"
+        },
+        {
+          "href": "https://medialabkatowice.eu/en/events/data-driven-investigation/",
+          "title": "Data-<br>-Driven"
+        }
+      ]
+    },
+    {
+      "medium_order": 6,
+      "links": [
+        {
+          "href": "https://medialabkatowice.eu/en/events/data-driven-investigation/",
+          "title": "Data-<br>-Driven",
+          "description": "[książka]"
+        },
+        {
+          "href": "https://medialabkatowice.eu/projekty/otwarte-dane-katalog-daniel/",
+          "title": "Otwarte dane"
+        },
+        {
+          "href": "https://medialabkatowice.eu/projekty/kroj-pisma-pischinger/",
+          "title": "Krój pisma Pischinger",
+          "hover": "kroj-pisma"
+        },
+        {
+          "href": "https://medialabkatowice.eu/projekty/katowickie-ikony/",
+          "title": "Katowickie Ikony",
+          "hover": "katowickie-ikony"
+        },
+        {
+          "href": "https://medialabkatowice.eu/projekty/mapa-katowickich-budynkow/",
+          "title": "Katowickie Budynki"
+        }
+      ]
+    }
+  ],
+  "link_section": {
+    "links": [
+      {
+        "header": "14_10_Wydarzenie",
+        "link": {
+          "href": "https://medialabkatowice.eu/wydarzenia/badania-w-domach-kultury",
+          "title": "Rozpoczynamy konsultacje z mieszkańcami Katowic w sprawie nowych domów kultury"
+        }
+      },
+      {
+        "header": "16_07_Analiza",
+        "link": {
+          "href": "https://blog.medialabkatowice.eu/city-by-bike-dostepnosc-stacji-rowerowych/",
+          "title": "City by bike: Jak daleko masz do najbliższej stacji rowerowej?"
+        }
+      },
+      {
+        "header": "07_06_Analiza",
+        "link": {
+          "href": "https://blog.medialabkatowice.eu/kto-oddycha-najgorszym-powietrzem-wizualizacja-jakosci-powietrza-w-katowickich-dzielnicach/",
+          "title": "Kto oddycha najgorszym powietrzem? Wizualizacja jakości powietrza w katowickich dzielnicach"
+        }
+      }
+    ]
+  },
+  "info_section": {
+    "info_text": "Jeśli chcesz zaprosić nas do projektu badawczego lub zorganizować wspólnie warsztaty, napisz na adres <a href=\"mailto: info@medialabkatowice.eu\">info@medialabkatowice.eu.</a> Możesz również wziąć udział w jednym z naszych projektów – aktualne wydarzenia znajdziesz na stronie <a href=\"https://medialabkatowice.eu\" target=\"_blank\">medialabkatowice.eu.</a>",
+    "contact": "<p>MEDIALAB KATOWICE</p><a href=\"mailto: info@medialabkatowice.eu\">info@medialabkatowice.eu</a><a href=\"https://medialabkatowice.eu\" target=\"_blank\">medialabkatowice.eu</a>"
+  },
+  "footer": {
+    "privacy_policy": {
+      "href": "/",
+      "title": "Privacy policy"
+    }
+  },
+  "cookies": "This website uses cookie!<br>Full privacy policy avaliable in footer section!"
+}

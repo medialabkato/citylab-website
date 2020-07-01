@@ -1,0 +1,19 @@
+// Base:
+$global-width: 1160px;
+$body-font-family: lft-etica, sans-serif;
+
+// Breakpoints:
+$breakpoints: (
+  small: 0,
+  medium: 640px,
+  large: 1024px
+);
+$print-breakpoint: large;
+$breakpoint-classes: (small medium large);
+
+// Grid:
+$grid-column-gutter: (
+  small: 20px,
+  medium: 45px,
+  large: 10px
+);

@@ -1,0 +1,134 @@
+// Utils | Repeatable:
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  font-family: lft-etica, sans-serif;
+  font-weight: 700;
+  font-size: rem(24px);
+  line-height: 1.3;
+  margin: 0;
+  padding: 0;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  color: white;
+  background: $purple;
+  overflow-x: hidden;
+
+  @include desktop {
+    font-size: rem(21px);
+  }
+
+  @include large-desktop {
+    font-size: rem(28px);    
+  }
+}
+
+a,
+button {
+  color: inherit;
+  outline: none;
+}
+
+button {
+  background: transparent;
+  border: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-center-mobile {
+  text-align: center;
+
+  @include desktop {
+    text-align: left;
+  }
+}
+
+.text-center-desktop {
+  @include desktop {
+    text-align: center;
+  }
+}
+
+.text-right-desktop {
+  @include desktop {
+    text-align: right;
+  }
+}
+
+.relative {
+  position: relative;
+}
+
+.fullwith {
+  width: 100%;
+}
+
+.hide-small {
+  display: none;
+
+  @include desktop {
+    display: block;
+  }
+}
+
+.hide-tablet {
+  @include tablet {
+    display: none;
+  }
+}
+
+.hide-until-tablet {
+  display: none;
+  @include tablet {
+    display: initial;
+  }
+}
+
+.hide-large {
+  @include desktop {
+    display: none;
+  }
+}
+
+.page-top-padding {
+  padding-top: 77px;
+  @include desktop {
+    padding-top: 110px;
+  }
+}
+
+.grafit {
+  color: $grafit;
+}
+
+.purple {
+  color: $purple;
+}
+
+.horizontal-padding {
+  @include desktop {
+    margin: 0 10vw;
+  }
+
+  @include hd-desktop {
+    margin: 0 22vw;
+  }
+}

@@ -48,10 +48,8 @@ export default {
     Footer,
     Cookies
   },
-  created() {
-    this.setCurrentLanguage()
-  },
   mounted() {
+    this.setCurrentLanguage()
     this.orphanLetters()
   },
   methods: {
